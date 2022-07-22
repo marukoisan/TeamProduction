@@ -1073,3 +1073,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.22-14.19.49:586][  0]LogAssetRegistry: Asset discovery search completed in 4.2182 seconds
 [2022.07.22-14.19.49:590][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000005 seconds (updated 0 objects)
 [2022.07.22-14.19.49:719][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:\Users\12105001\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: URL: C:\Users\12105001\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.07.22-14.23.04:465][ 24]LogWindows: Warning: CreateProc failed: 指定されたファイルが見つかりません。 (0x00000002)
+[2022.07.22-14.23.04:466][ 24]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.07.22-14.24.01:598][252]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.01:598][252]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.05:314][375]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.05:314][375]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.05:314][375]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.24.06:424][422]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.06:424][422]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.06:424][422]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.24.06:814][434]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.06:814][434]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.06:814][434]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.24.07:015][437]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.07:015][437]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.07:015][437]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.24.07:222][440]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.07:222][440]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.07:222][440]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.24.07:428][441]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.24.07:428][441]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.24.07:438][442]SourceControl: Error: Gitソースコントロールを有効にできませんでした。Gitをインストールし、git実行可能ファイルへの有効なパスを指定する必要があります。
+[2022.07.22-14.25.51:280][235]SourceControl: ソースコントロールは無効です
+[2022.07.22-14.25.51:281][235]LogSlate: Window 'ソースコントロールへログインする' being destroyed
+[2022.07.22-14.33.14:579][ 77]LogWindows: Warning: CreateProc failed: アクセスが拒否されました。 (0x00000005)
+[2022.07.22-14.33.14:579][ 77]LogWindows: Warning: URL: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/ version
+[2022.07.22-14.35.24:825][670]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.22-14.35.24:825][670]LogSlate: Took 0.000322 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-SemiBold.otf' (703K)
+[2022.07.22-14.35.24:826][670]LogSlate: Took 0.000393 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2022.07.22-14.35.24:826][670]LogSlate: Took 0.000316 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Light.otf' (713K)
+[2022.07.22-14.44.32:080][633]SourceControl: ソースコントロールは無効です
+[2022.07.22-14.44.32:080][633]LogSlate: Window 'ソースコントロールへログインする' being destroyed
