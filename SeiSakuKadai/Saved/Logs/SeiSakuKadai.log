@@ -2688,3 +2688,372 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.25-04.14.38:680][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.07.25-04.14.38:714][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
 [2022.07.25-04.14.38:729][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2022.07.25-04.24.27:806][323]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.07.25-04.24.27:841][323]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto0EAD4215E417B571B2589D487E0762A5E.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto0.umap'
+[2022.07.25-04.24.27:843][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.067
+[2022.07.25-04.24.27:843][323]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.067
+[2022.07.25-04.24.27:843][323]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-04.24.27:843][323]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-04.24.27:853][323]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto09C31FB754E82991EE2FD79AC57CBB00B.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto0.uasset'
+[2022.07.25-04.24.27:854][323]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.07.25-04.35.06:312][560]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.35.06:318][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.35.06:318][560]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:35:06)
+[2022.07.25-04.35.06:344][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.35.06:354][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009566s)
+[2022.07.25-04.35.06:355][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.35.06:355][560]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2022.07.25-04.35.06:355][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011071s)
+[2022.07.25-04.35.06:388][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.07.25-04.35.06:389][560]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.35.06:390][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.35.06:390][560]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.35.06:390][560]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.35.06:395][560]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.35.06:395][560]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.35.06:430][560]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.35.06:431][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.35.06:431][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.35.06:431][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.35.06:431][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.35.06:431][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.35.06:431][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.35.06:444][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.35.06:444][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.35.06:444][560]LogInit: FAudioDevice initialized.
+[2022.07.25-04.35.06:444][560]LogAudio: Display: Audio Device (ID: 28) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.35.06:454][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.35.06:456][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.35.06
+[2022.07.25-04.35.06:456][560]LogWorld: Bringing up level for play took: 0.001457
+[2022.07.25-04.35.06:456][560]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2022.07.25-04.35.06:458][560]PIE: サーバーにログインしました
+[2022.07.25-04.35.06:459][560]PIE: PIE合計開始時間 0.142 秒。
+[2022.07.25-04.35.09:086][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.35.09:086][713]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.35.09:086][713]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.35.09:086][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.35.09:098][713]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.35.09:103][713]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.35.09:128][713]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.35.09:128][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.35.09:129][713]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.35.09:164][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.35.09:167][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.07.25-04.35.09:183][714]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2022.07.25-04.37.04:998][651]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.07.25-04.37.05:034][651]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap2C8D3B4C4D6A773E0E22529461155B73.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.25-04.37.05:041][651]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.070
+[2022.07.25-04.37.05:052][651]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
+[2022.07.25-04.37.05:052][651]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-04.37.14:157][185]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.25-04.37.14:283][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-04.37.14:293][185]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit7754903C41327BAC212ED8838D1DAF58.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-04.37.14:304][185]AssetCheck: New page: アセット保存:TimeLimit
+[2022.07.25-04.37.14:304][185]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-04.53.45:625][605]LogSlate: Window '新規レベル' being destroyed
+[2022.07.25-04.53.45:631][605]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-04.53.45:646][605]LightingResults: New page: ライティングのビルド
+[2022.07.25-04.53.45:646][605]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2022.07.25-04.53.45:659][605]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.53.45:659][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.53.45:757][605]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.53.45:757][605]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.53.45:757][605]MapCheck: New page: マップをチェック
+[2022.07.25-04.53.45:757][605]LightingResults: New page: <何も選択されていません>
+[2022.07.25-04.53.45:780][605]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.53.45:794][605]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.25-04.53.45:806][605]LogTexture: Display: テクスチャをビルドしています:DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8、128X128)
+[2022.07.25-04.53.45:812][605]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_2'.
+[2022.07.25-04.53.45:814][605]LogAIModule: Creating AISystem for world Untitled_2
+[2022.07.25-04.53.45:816][605]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-04.53.45:844][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.07.25-04.53.45:850][605]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-04.53.45:851][605]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.165ミリ秒かかりました。
+[2022.07.25-04.53.45:851][605]LogFileHelpers: Loading map 'Template_Default' took 0.219
+[2022.07.25-04.54.11:135][ 20]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2022.07.25-04.54.11:195][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.07.25-04.54.11:205][ 20]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameOver0F096F6F4F896572F22CFBBDEF1C7FE7.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver.umap'
+[2022.07.25-04.54.11:539][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/GameOver_BuiltData" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver_BuiltData.uasset" SILENT=true
+[2022.07.25-04.54.11:556][ 20]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameOver_BuiltDataD11FDB60460945189D33C0B1A4610E04.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver_BuiltData.uasset'
+[2022.07.25-04.54.11:737][ 20]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.25-04.54.11:737][ 20]SourceControl: Error: SeiSakuKadai/Content/Level/GameOver_BuiltData.uasset
+[2022.07.25-04.54.11:737][ 20]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.25-04.54.11:737][ 20]SourceControl: Error: hint: Turn this message off by running
+[2022.07.25-04.54.11:737][ 20]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.25-04.54.11:770][ 20]LogFileHelpers: Saving map 'GameOver' took 0.627
+[2022.07.25-04.54.11:770][ 20]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-04.54.11:782][ 20]LightingResults: New page: ライティングのビルド
+[2022.07.25-04.54.11:782][ 20]LoadErrors: New page: マップをロード中: GameOver.umap
+[2022.07.25-04.54.11:782][ 20]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.54.11:782][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.54.11:782][ 20]MapCheck: New page: マップをチェック
+[2022.07.25-04.54.11:782][ 20]LightingResults: New page: <何も選択されていません>
+[2022.07.25-04.54.11:804][ 20]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.54.11:807][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.25-04.54.11:812][ 20]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOver'.
+[2022.07.25-04.54.11:813][ 20]LogAIModule: Creating AISystem for world GameOver
+[2022.07.25-04.54.11:816][ 20]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-04.54.11:841][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.25-04.54.11:850][ 20]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-04.54.11:851][ 20]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.101ミリ秒かかりました。
+[2022.07.25-04.54.11:851][ 20]LogFileHelpers: Loading map 'GameOver' took 0.080
+[2022.07.25-04.54.11:863][ 20]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-04.54.11:863][ 20]LogContentValidation: Display: World /Game/Level/GameOver.GameOver を検証しています
+[2022.07.25-04.54.11:863][ 20]LogContentValidation: Display: MapBuildDataRegistry /Game/Level/GameOver_BuiltData.GameOver_BuiltData を検証しています
+[2022.07.25-04.54.13:467][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2022.07.25-04.54.13:482][114]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/GameOver.GameOver
+[2022.07.25-04.54.13:482][114]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-04.54.13:482][114]LightingResults: New page: ライティングのビルド
+[2022.07.25-04.54.13:482][114]LoadErrors: New page: マップをロード中: GameOver.umap
+[2022.07.25-04.54.13:482][114]LogWorld: UWorld::CleanupWorld for GameOver, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.54.13:482][114]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.54.13:483][114]MapCheck: New page: マップをチェック
+[2022.07.25-04.54.13:483][114]LightingResults: New page: <何も選択されていません>
+[2022.07.25-04.54.13:504][114]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.54.13:507][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.25-04.54.13:512][114]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameOver'.
+[2022.07.25-04.54.13:513][114]LogAIModule: Creating AISystem for world GameOver
+[2022.07.25-04.54.13:515][114]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-04.54.13:540][114]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.25-04.54.13:542][114]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-04.54.13:542][114]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.101ミリ秒かかりました。
+[2022.07.25-04.54.13:542][114]LogFileHelpers: Loading map 'GameOver' took 0.061
+[2022.07.25-04.55.48:170][767]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.25-04.55.48:179][767]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.25-04.55.52:766][ 43]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> GameOver
+[2022.07.25-04.55.52:869][ 43]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.25-04.55.54:316][127]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/GameOver.GameOver
+[2022.07.25-05.12.39:999][376]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/FX/Niagara/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:113][312]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.26/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-05.12.56:714][312]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2022.07.25-05.12.56:723][312]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameOver548BDF254416DD8C01D4E5ABB5035930.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameOver.umap'
+[2022.07.25-05.12.56:728][312]LogFileHelpers: Saving map 'GameOver' took 0.046
+[2022.07.25-05.12.56:728][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-05.12.56:737][312]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimitF16CFC8649DA445AC05FE7BA1A7461A2.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-05.12.58:184][312]LogSlate: Window 'ファイルをサブミット' being destroyed
+[2022.07.25-05.12.58:203][313]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-05.12.58:203][313]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-05.12.58:204][313]LogContentValidation: Display: World /Game/Level/GameOver.GameOver を検証しています
+[2022.07.25-05.13.00:528][445]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2022.07.25-05.13.14:698][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.07.25-05.16.01:718][229]Cmd: TRANSACTION UNDO
+[2022.07.25-05.16.01:718][229]LogEditorTransaction: Undo ウィジット名を変更
+[2022.07.25-05.22.42:595][ 63]LogEditorTransaction: Undo ウィジット名を変更
+[2022.07.25-05.22.43:740][115]LogEditorTransaction: Undo ウィジェットをドラッグアンドドロップ
+[2022.07.25-05.22.46:541][281]LogEditorTransaction: Redo ウィジェットをドラッグアンドドロップ
+[2022.07.25-05.22.50:319][505]LogEditorTransaction: Undo ウィジェットをドラッグアンドドロップ
+[2022.07.25-05.22.51:568][563]LogEditorTransaction: Redo ウィジェットをドラッグアンドドロップ
+[2022.07.25-05.25.53:345][386]BlueprintLog: New page: GameOver をコンパイル
+[2022.07.25-05.25.53:382][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.07.25-05.26.27:975][448]LogContentBrowser: Attempting asset rename: GameOver -> GameClear
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.SKEL_GameClear_C' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.GameClear_C' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.GameClear:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.GameClear:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.GameClear:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.SKEL_GameClear_C:PreConstruct' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.SKEL_GameClear_C:Construct' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.SKEL_GameClear_C:Tick' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:695][448]LogMetaData: Removing '/Game/UI/GameClear.SKEL_GameClear_C:BndEvt__GameOver_Button_ClickToTitle_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/GameOver.PackageMetaData'
+[2022.07.25-05.26.28:711][448]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameClear" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/GameClear.uasset" SILENT=true
+[2022.07.25-05.26.28:718][448]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameClearE9634A0B40F0EF50D05012B65FF223B5.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/GameClear.uasset'
+[2022.07.25-05.26.29:155][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.07.25-05.26.29:190][448]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.07.25-05.26.29:214][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.25-05.26.29:323][448]AssetCheck: New page: アセット保存:GameClear
+[2022.07.25-05.26.29:323][448]LogContentValidation: Display: WidgetBlueprint /Game/UI/GameClear.GameClear を検証しています
+[2022.07.25-05.26.48:968][617]LogContentBrowser: Attempting asset rename: GameOver -> GameClear
+[2022.07.25-05.26.49:803][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/GameClear_BuiltData" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameClear_BuiltData.uasset" SILENT=true
+[2022.07.25-05.26.49:816][617]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameClear_BuiltDataCDA47F6A4895F188C646E2B494DBC7A6.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameClear_BuiltData.uasset'
+[2022.07.25-05.26.49:978][617]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.25-05.26.49:978][617]SourceControl: Error: SeiSakuKadai/Content/Level/GameClear_BuiltData.uasset
+[2022.07.25-05.26.49:978][617]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.25-05.26.49:978][617]SourceControl: Error: hint: Turn this message off by running
+[2022.07.25-05.26.49:978][617]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.25-05.26.50:012][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.07.25-05.26.50:023][617]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameClear750C60C64F47BD02713C468DC02E581F.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameClear.umap'
+[2022.07.25-05.26.50:272][617]LogFileHelpers: Saving map 'GameClear' took 0.289
+[2022.07.25-05.26.50:742][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.25-05.26.50:767][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.07.25-05.26.50:799][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.07.25-05.26.50:823][617]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2022.07.25-05.26.51:041][617]SourceControl: rm 'SeiSakuKadai/Content/Level/GameOver.umap'
+[2022.07.25-05.26.51:072][617]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-05.26.51:072][617]LogContentValidation: Display: World /Game/Level/GameClear.GameClear を検証しています
+[2022.07.25-05.26.51:072][617]LogContentValidation: Display: MapBuildDataRegistry /Game/Level/GameClear_BuiltData.GameClear_BuiltData を検証しています
+[2022.07.25-05.29.11:603][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.07.25-05.29.11:633][ 43]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/GameClear.GameClear
+[2022.07.25-05.29.11:633][ 43]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameClear.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-05.29.11:634][ 43]LightingResults: New page: ライティングのビルド
+[2022.07.25-05.29.11:634][ 43]LoadErrors: New page: マップをロード中: GameClear.umap
+[2022.07.25-05.29.11:634][ 43]LogWorld: UWorld::CleanupWorld for GameClear, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.29.11:634][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.29.11:635][ 43]MapCheck: New page: マップをチェック
+[2022.07.25-05.29.11:635][ 43]LightingResults: New page: <何も選択されていません>
+[2022.07.25-05.29.11:659][ 43]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-05.29.11:662][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.07.25-05.29.11:666][ 43]LogAudio: Display: Audio Device (ID: 1) registered with world 'GameClear'.
+[2022.07.25-05.29.11:667][ 43]LogAIModule: Creating AISystem for world GameClear
+[2022.07.25-05.29.11:671][ 43]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-05.29.11:699][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.25-05.29.11:702][ 43]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-05.29.11:702][ 43]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.101ミリ秒かかりました。
+[2022.07.25-05.29.11:702][ 43]LogFileHelpers: Loading map 'GameClear' took 0.069
+[2022.07.25-05.29.14:979][232]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/GameClear.GameClear:PersistentLevel.GameClear
+[2022.07.25-05.29.44:606][982]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-05.35.15:447][581]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.07.25-05.35.17:563][700]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.07.25-05.35.17:563][700]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.07.25-05.35.17:563][700]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.07.25-05.35.17:567][700]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.07.25-05.35.19:588][813]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.07.25-05.35.19:588][813]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.07.25-05.35.19:588][813]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.07.25-05.35.19:601][813]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.07.25-05.35.21:610][925]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.07.25-05.35.21:611][925]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.07.25-05.35.21:611][925]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.07.25-05.35.21:615][925]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.07.25-05.35.23:629][ 37]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1 on interface 0.0.0.0
+[2022.07.25-05.35.23:629][ 37]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2022.07.25-05.35.23:629][ 37]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2022.07.25-05.35.23:632][ 37]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2022.07.25-05.38.00:440][284]BlueprintLog: New page: GameClear をコンパイル
+[2022.07.25-05.38.00:443][284]LogBlueprint: Error: [AssetLog] C:\Users\12105001\Desktop\ゲームジャム制作課題\-TeamProduction\SeiSakuKadai\Content\Level\GameClear.umap: [Compiler] このブループリント(自身)は PlayerController ではないため、' ターゲット 'には接続が必要です。
+[2022.07.25-05.38.00:444][284]LogBlueprint: Error: [AssetLog] C:\Users\12105001\Desktop\ゲームジャム制作課題\-TeamProduction\SeiSakuKadai\Content\Level\GameClear.umap: [Compiler] 変数ノード  bShowMouseCursor を設定  は無効なターゲットを使用しています。実行チェーンに接続しないノードに依存またはパージする可能性があります
+[2022.07.25-05.38.00:485][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.07.25-05.38.00:530][284]LogSlate: Took 0.000664 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.25-05.38.00:532][284]LogSlate: Took 0.001092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/GenEiGothicPro-Heavy.otf' (704K)
+[2022.07.25-05.38.06:219][625]BlueprintLog: New page: GameClear をコンパイル
+[2022.07.25-05.38.06:266][625]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2022.07.25-05.39.33:149][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.07.25-05.39.33:162][803]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameClear_Auto1BB3621DB4337F863BFB3D6A68160B350.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/Level/GameClear_Auto1.umap'
+[2022.07.25-05.39.33:163][803]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/GameClear' took 0.047
+[2022.07.25-05.39.33:163][803]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2022.07.25-05.39.33:163][803]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-05.39.33:163][803]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-05.39.33:173][803]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto1C19DC5D944D02308C78E36A0317B24D6.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto1.uasset'
+[2022.07.25-05.39.33:174][803]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.07.25-05.49.33:384][450]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.07.25-05.49.33:386][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/GameClear' took 0.035
+[2022.07.25-05.49.33:386][450]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-05.49.33:386][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-05.49.33:397][450]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto26E4E0E714C85061BBEE58AA506841015.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto2.uasset'
+[2022.07.25-05.49.33:397][450]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.07.25-05.49.44:319][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.07.25-05.49.47:697][ 95]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-05.49.47:954][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.07.25-05.49.47:968][ 95]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/GameClearFA41E7C342D7E930E60EA9AF8591A34A.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/GameClear.umap'
+[2022.07.25-05.49.47:973][ 95]LogFileHelpers: Saving map 'GameClear' took 0.046
+[2022.07.25-05.49.47:973][ 95]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-05.49.47:983][ 95]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit552D29ED4DD4E3118D6B5A9D8B95C267.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-05.49.48:030][ 95]LogTexture: Display: テクスチャをビルドしています:DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8、128X128)
+[2022.07.25-05.49.48:036][ 95]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.25-05.49.48:036][ 95]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-05.49.48:036][ 95]LightingResults: New page: ライティングのビルド
+[2022.07.25-05.49.48:036][ 95]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2022.07.25-05.49.48:078][ 95]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.49.48:078][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.49.48:138][ 95]LogWorld: UWorld::CleanupWorld for GameClear, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.49.48:138][ 95]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.49.48:138][ 95]MapCheck: New page: マップをチェック
+[2022.07.25-05.49.48:138][ 95]LightingResults: New page: <何も選択されていません>
+[2022.07.25-05.49.48:164][ 95]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-05.49.48:170][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.07.25-05.49.48:171][ 95]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-05.49.48:175][ 95]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-05.49.48:175][ 95]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-05.49.48:205][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2022.07.25-05.49.48:208][ 95]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-05.49.48:208][ 95]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.11ミリ秒かかりました。
+[2022.07.25-05.49.48:209][ 95]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.174
+[2022.07.25-05.49.48:225][ 95]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-05.49.48:225][ 95]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-05.49.48:225][ 95]LogContentValidation: Display: World /Game/Level/GameClear.GameClear を検証しています
+[2022.07.25-05.49.50:697][242]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2022.07.25-05.49.50:885][248]LogEditorViewport: Clicking on Component (LMB): SkeletalMeshComponent (CharacterMesh0)
+[2022.07.25-05.49.55:436][513]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.07.25-05.54.19:046][308]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.54.19:046][308]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.54.40:579][593]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-05.54.40:584][593]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2022.07.25-05.54.40:588][593]LogPlayLevel: [PlayLevel] Compiling TimeLimit before play...
+[2022.07.25-05.54.40:649][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2022.07.25-05.54.40:651][593]LogPlayLevel: PlayLevel: Blueprint regeneration took 67 ms (1 blueprints)
+[2022.07.25-05.54.40:651][593]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 23:54:40)
+[2022.07.25-05.54.40:652][593]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-05.54.40:661][593]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008791s)
+[2022.07.25-05.54.40:662][593]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-05.54.40:662][593]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2022.07.25-05.54.40:662][593]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010244s)
+[2022.07.25-05.54.40:694][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.25-05.54.40:695][593]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-05.54.40:696][593]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-05.54.40:696][593]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-05.54.40:696][593]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-05.54.40:701][593]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-05.54.40:701][593]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-05.54.40:739][593]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-05.54.40:739][593]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-05.54.40:739][593]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-05.54.40:739][593]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-05.54.40:740][593]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-05.54.40:740][593]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-05.54.40:740][593]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-05.54.40:754][593]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-05.54.40:754][593]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-05.54.40:754][593]LogInit: FAudioDevice initialized.
+[2022.07.25-05.54.40:754][593]LogAudio: Display: Audio Device (ID: 29) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-05.54.40:823][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-05.54.40:823][593]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-05.54.40:829][593]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-14.54.40
+[2022.07.25-05.54.40:830][593]LogWorld: Bringing up level for play took: 0.004533
+[2022.07.25-05.54.40:830][593]LogOnline: OSS: Creating online subsystem instance for: :Context_49
+[2022.07.25-05.54.40:839][593]PIE: サーバーにログインしました
+[2022.07.25-05.54.40:840][593]PIE: PIE合計開始時間 0.258 秒。
+[2022.07.25-05.54.40:896][594]LogRenderer: Reallocating scene render targets to support 1040x640 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-05.54.53:130][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-05.54.53:130][324]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-05.54.53:130][324]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-05.54.53:136][324]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-05.54.53:136][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.54.53:146][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-05.54.53:183][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-05.54.53:208][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-05.54.53:209][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-05.54.53:261][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.07.25-05.54.53:274][325]LogPlayLevel: Display: Destroying online subsystem :Context_49
