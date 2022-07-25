@@ -1321,3 +1321,1370 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.07.25-01.47.06:931][311]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.059
 [2022.07.25-01.47.06:940][311]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
 [2022.07.25-01.47.06:940][311]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-02.11.02:614][679]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.07.25-02.11.02:630][679]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.07.25-02.11.10:533][537]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Widget
+[2022.07.25-02.11.10:534][537]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.07.25-02.11.20:049][252]LogSlate: Window '親クラスを選択' being destroyed
+[2022.07.25-02.11.25:495][706]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2022.07.25-02.11.25:504][706]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2022.07.25-02.11.47:621][355]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> TimeLimit
+[2022.07.25-02.11.47:731][355]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2022.07.25-02.13.35:960][799]BlueprintLog: New page: ThirdPersonExampleMap をコンパイル
+[2022.07.25-02.13.36:001][799]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.07.25-02.15.29:575][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.07.25-02.15.29:617][567]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto4A4EC3CA546DF4B88434A5D8B17D5F892.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2022.07.25-02.15.29:619][567]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.085
+[2022.07.25-02.15.29:619][567]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2022.07.25-02.16.44:168][195]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.25-02.16.44:203][195]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap7813586C4F394DD45C9481879B0E1A0B.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.25-02.16.44:208][195]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.062
+[2022.07.25-02.16.44:219][195]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
+[2022.07.25-02.16.44:219][195]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-02.16.44:383][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.25-02.16.44:415][196]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap696DE3B04946F7B3AE876085B9F20006.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.25-02.16.44:420][196]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.059
+[2022.07.25-02.16.44:431][196]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
+[2022.07.25-02.16.44:431][196]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-02.16.50:346][900]BlueprintLog: New page: ThirdPersonExampleMap をコンパイル
+[2022.07.25-02.16.50:386][900]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.07.25-02.18.26:507][127]LogContentBrowser: Attempting asset rename: Widget -> UI
+[2022.07.25-02.18.27:245][127]LogMetaData: Removing '/Game/UI/TimeLimit.SKEL_TimeLimit_C' ref from Metadata '/Game/Widget/TimeLimit.PackageMetaData'
+[2022.07.25-02.18.27:245][127]LogMetaData: Removing '/Game/UI/TimeLimit.TimeLimit_C' ref from Metadata '/Game/Widget/TimeLimit.PackageMetaData'
+[2022.07.25-02.18.27:245][127]LogMetaData: Removing '/Game/UI/TimeLimit.TimeLimit:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Widget/TimeLimit.PackageMetaData'
+[2022.07.25-02.18.27:245][127]LogMetaData: Removing '/Game/UI/TimeLimit.TimeLimit:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Widget/TimeLimit.PackageMetaData'
+[2022.07.25-02.18.27:245][127]LogMetaData: Removing '/Game/UI/TimeLimit.TimeLimit:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Widget/TimeLimit.PackageMetaData'
+[2022.07.25-02.18.27:278][127]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-02.18.27:283][127]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimitB339AB324AEB77F6841E7EACD2B55A3F.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-02.18.27:741][127]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2022.07.25-02.18.27:778][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.07.25-02.18.27:801][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.25-02.18.27:871][127]AssetCheck: New page: アセット保存:TimeLimit
+[2022.07.25-02.18.27:872][127]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.18.30:162][382]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/TimeLimit.TimeLimit
+[2022.07.25-02.26.43:584][228]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.26.43:685][228]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2022.07.25-02.26.44:738][289]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.26.44:778][289]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2022.07.25-02.26.47:961][472]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2022.07.25-02.26.48:210][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.07.25-02.26.48:246][472]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMapE4A957964A3129A0AF5D059AA0B01709.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.25-02.26.48:251][472]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.068
+[2022.07.25-02.26.48:251][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-02.26.48:255][472]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit5E78354148289F4BB57BF9921F9201E5.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-02.26.48:268][472]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-02.26.48:268][472]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-02.26.48:268][472]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.28.28:918][499]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.07.25-02.28.28:934][499]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.07.25-02.28.30:572][598]LogContentBrowser: Attempting asset rename: 新規フォルダ -> 新規フォルダ
+[2022.07.25-02.28.30:572][598]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.07.25-02.28.39:080][ 98]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Level
+[2022.07.25-02.29.26:262][900]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 29
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2022.07.25-02.29.26:332][901]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.07.25-02.29.26:347][901]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.07.25-02.29.26:395][902]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.07.25-02.29.26:421][902]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 34
+[2022.07.25-02.29.26:607][911]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2022.07.25-02.29.29:109][ 10]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 97
+[2022.07.25-02.29.29:276][ 17]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 87
+[2022.07.25-02.29.29:377][ 21]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 77
+[2022.07.25-02.29.29:509][ 28]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 67
+[2022.07.25-02.29.29:560][ 30]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 58
+[2022.07.25-02.29.29:969][ 47]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 50
+[2022.07.25-02.29.29:973][ 47]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 43
+[2022.07.25-02.29.30:153][ 55]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 37
+[2022.07.25-02.29.33:127][159]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 32
+[2022.07.25-02.29.33:145][160]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 27
+[2022.07.25-02.29.33:159][161]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 23
+[2022.07.25-02.29.33:641][184]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2022.07.25-02.29.33:675][186]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2022.07.25-02.29.33:932][198]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2022.07.25-02.29.34:096][208]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 12
+[2022.07.25-02.29.34:464][230]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.07.25-02.29.35:132][270]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2022.07.25-02.29.35:197][274]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.07.25-02.29.35:282][279]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2022.07.25-02.29.35:340][282]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.07.25-02.29.35:393][284]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.07.25-02.29.35:406][285]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.07.25-02.29.35:475][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.07.25-02.30.17:566][798]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.07.25-02.30.17:580][798]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.07.25-02.30.21:808][ 52]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Level
+[2022.07.25-02.30.21:808][ 52]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.07.25-02.30.53:584][941]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.07.25-02.30.53:595][941]LogContentBrowser: Creating deferred item: NewWorld
+[2022.07.25-02.31.00:045][325]LogContentBrowser: Attempting asset rename: NewWorld -> PlayScreen
+[2022.07.25-02.31.00:142][325]LogContentBrowser: End creating deferred item NewWorld
+[2022.07.25-02.31.30:628][149]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.07.25-02.31.45:806][149]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.31.47:476][246]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.07.25-02.31.52:240][246]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.31.52:271][246]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/PlayScreen.PlayScreen
+[2022.07.25-02.31.52:272][246]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/PlayScreen.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.31.52:272][246]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.31.52:272][246]LoadErrors: New page: マップをロード中: PlayScreen.umap
+[2022.07.25-02.31.52:285][246]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.31.52:286][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.31.52:378][246]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.31.52:379][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.31.52:379][246]MapCheck: New page: マップをチェック
+[2022.07.25-02.31.52:379][246]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.31.52:401][246]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.31.52:443][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2022.07.25-02.31.52:446][246]LogAudio: Display: Audio Device (ID: 1) registered with world 'PlayScreen'.
+[2022.07.25-02.31.52:447][246]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.31.52:447][246]LogAIModule: Creating AISystem for world PlayScreen
+[2022.07.25-02.31.52:518][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.07.25-02.31.52:521][246]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.31.52:522][246]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.129ミリ秒かかりました。
+[2022.07.25-02.31.52:522][246]LogFileHelpers: Loading map 'PlayScreen' took 0.250
+[2022.07.25-02.31.54:217][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.07.25-02.31.55:882][346]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.32.00:128][598]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/PlayScreen.PlayScreen:PersistentLevel.PlayScreen
+[2022.07.25-02.35.42:567][846]BlueprintLog: New page: PlayScreen をコンパイル
+[2022.07.25-02.35.42:597][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2022.07.25-02.35.43:587][905]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.35.43:587][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.35.55:819][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.07.25-02.35.58:727][612]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.35.58:773][612]LogTexture: Display: テクスチャをビルドしています:DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8、128X128)
+[2022.07.25-02.35.58:781][612]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.25-02.36.02:421][612]LogSlate: Window 'メッセージ' being destroyed
+[2022.07.25-02.36.02:427][612]Message dialog closed, result: No, title: メッセージ, text: 保存していないレベル PlayScreen は失われます。続けますか？
+[2022.07.25-02.36.06:082][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.07.25-02.36.06:086][819]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/PlayScreen89CA3F33449F64FD6CDDF78A94962AE6.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/PlayScreen.umap'
+[2022.07.25-02.36.06:305][819]LogFileHelpers: Saving map 'PlayScreen' took 0.247
+[2022.07.25-02.36.06:316][819]AssetCheck: New page: アセット保存:PlayScreen
+[2022.07.25-02.36.06:316][819]LogContentValidation: Display: World /Game/Level/PlayScreen.PlayScreen を検証しています
+[2022.07.25-02.36.07:280][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.07.25-02.36.07:308][875]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.25-02.36.07:308][875]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.36.07:308][875]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.36.07:308][875]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2022.07.25-02.36.07:333][875]LogWorld: UWorld::CleanupWorld for PlayScreen, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.36.07:333][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.36.07:333][875]MapCheck: New page: マップをチェック
+[2022.07.25-02.36.07:333][875]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.36.07:354][875]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.36.07:357][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.07.25-02.36.07:357][875]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-02.36.07:360][875]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.36.07:360][875]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-02.36.07:386][875]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.07.25-02.36.07:389][875]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.36.07:389][875]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.104ミリ秒かかりました。
+[2022.07.25-02.36.07:389][875]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.081
+[2022.07.25-02.36.11:453][110]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2022.07.25-02.39.47:502][520]LogObjectTools: Deleting 1 worlds: /Game/Level/PlayScreen.PlayScreen
+[2022.07.25-02.39.47:502][520]LogObjectTools: Currently 12 active worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_5, /Engine/Transient.World_6, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_10, /Engine/Transient.World_11, /Engine/Transient.World_12, /Engine/Transient.World_14
+[2022.07.25-02.39.47:532][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.25-02.39.48:844][520]LogSlate: Window 'Delete Assets' being destroyed
+[2022.07.25-02.39.48:863][520]LogWorld: UWorld::CleanupWorld for PlayScreen, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.39.48:863][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.39.49:041][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.07.25-02.39.49:072][520]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.25-02.39.49:096][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2022.07.25-02.39.49:270][520]SourceControl: rm 'SeiSakuKadai/Content/Level/PlayScreen.umap'
+[2022.07.25-02.40.17:001][ 59]LogSlate: Window '新規レベル' being destroyed
+[2022.07.25-02.40.20:451][ 59]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.40.20:610][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.25-02.40.20:651][ 59]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMapF90F21E14BAD4BE20DEF9797DE78D570.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2022.07.25-02.40.20:657][ 59]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.074
+[2022.07.25-02.40.20:662][ 59]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.40.20:685][ 59]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.40.20:685][ 59]LoadErrors: New page: マップをロード中: Template_Default.umap
+[2022.07.25-02.40.20:723][ 59]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.40.20:723][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.40.20:754][ 59]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.40.20:754][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.40.20:754][ 59]MapCheck: New page: マップをチェック
+[2022.07.25-02.40.20:754][ 59]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.40.20:774][ 59]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.40.20:780][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2022.07.25-02.40.20:790][ 59]LogTexture: Display: テクスチャをビルドしています:DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8、128X128)
+[2022.07.25-02.40.20:791][ 59]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2022.07.25-02.40.20:792][ 59]LogAIModule: Creating AISystem for world Untitled_1
+[2022.07.25-02.40.20:794][ 59]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.40.20:819][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.25-02.40.20:828][ 59]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.40.20:829][ 59]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.19ミリ秒かかりました。
+[2022.07.25-02.40.20:829][ 59]LogFileHelpers: Loading map 'Template_Default' took 0.167
+[2022.07.25-02.40.20:835][ 59]AssetCheck: New page: アセット保存:ThirdPersonExampleMap
+[2022.07.25-02.40.20:835][ 59]LogContentValidation: Display: World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap を検証しています
+[2022.07.25-02.40.20:852][ 59]LogTexture: Display: テクスチャをビルドしています:DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8、128X128)
+[2022.07.25-02.40.56:137][695]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2022.07.25-02.40.56:237][701]SourceControl: fatal: /Temp: '/Temp' is outside repository at 'C:/Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction'
+[2022.07.25-02.41.07:610][346]LogContentBrowser: Deferred new asset folder creation: 新規フォルダ
+[2022.07.25-02.41.07:626][346]LogContentBrowser: Creating deferred item: 新規フォルダ
+[2022.07.25-02.41.11:638][587]LogContentBrowser: Attempting asset rename: 新規フォルダ -> Level
+[2022.07.25-02.41.11:639][587]LogContentBrowser: End creating deferred item 新規フォルダ
+[2022.07.25-02.41.35:134][967]LogSlate: Window '名前を付けてレベルを保存する' being destroyed
+[2022.07.25-02.41.35:164][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/TimeLimit.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.25-02.41.35:233][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2022.07.25-02.41.35:244][967]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimitC18B67F74AB76F787833FD9214749E49.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/TimeLimit.umap'
+[2022.07.25-02.41.35:597][967]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TimeLimit_BuiltData" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/TimeLimit_BuiltData.uasset" SILENT=true
+[2022.07.25-02.41.35:613][967]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_BuiltDataF665C8F7444853DABA2CB1ACBC64934B.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/TimeLimit_BuiltData.uasset'
+[2022.07.25-02.41.35:784][967]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.25-02.41.35:784][967]SourceControl: Error: SeiSakuKadai/Content/TimeLimit_BuiltData.uasset
+[2022.07.25-02.41.35:784][967]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.25-02.41.35:784][967]SourceControl: Error: hint: Turn this message off by running
+[2022.07.25-02.41.35:784][967]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.25-02.41.35:816][967]LogFileHelpers: Saving map 'TimeLimit' took 0.671
+[2022.07.25-02.41.35:816][967]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/TimeLimit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.41.35:829][967]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.41.35:830][967]LoadErrors: New page: マップをロード中: TimeLimit.umap
+[2022.07.25-02.41.35:830][967]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.41.35:830][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.41.35:830][967]MapCheck: New page: マップをチェック
+[2022.07.25-02.41.35:830][967]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.41.35:852][967]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.41.35:878][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.07.25-02.41.35:905][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.07.25-02.41.35:927][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.25-02.41.35:931][967]LogAudio: Display: Audio Device (ID: 1) registered with world 'TimeLimit'.
+[2022.07.25-02.41.35:932][967]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.41.35:935][967]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.41.35:958][967]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.07.25-02.41.35:967][967]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.41.35:967][967]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.1ミリ秒かかりました。
+[2022.07.25-02.41.35:967][967]LogFileHelpers: Loading map 'TimeLimit' took 0.151
+[2022.07.25-02.41.35:975][967]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-02.41.35:975][967]LogContentValidation: Display: World /Game/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.41.35:975][967]LogContentValidation: Display: MapBuildDataRegistry /Game/TimeLimit_BuiltData.TimeLimit_BuiltData を検証しています
+[2022.07.25-02.41.48:588][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level/TimeLimit_BuiltData" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit_BuiltData.uasset" SILENT=true
+[2022.07.25-02.41.48:601][656]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_BuiltData93DC13D644AC090F5B48A982E65CFBDD.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit_BuiltData.uasset'
+[2022.07.25-02.41.48:765][656]SourceControl: Error: The following paths are ignored by one of your .gitignore files:
+[2022.07.25-02.41.48:765][656]SourceControl: Error: SeiSakuKadai/Content/Level/TimeLimit_BuiltData.uasset
+[2022.07.25-02.41.48:765][656]SourceControl: Error: hint: Use -f if you really want to add them.
+[2022.07.25-02.41.48:765][656]SourceControl: Error: hint: Turn this message off by running
+[2022.07.25-02.41.48:765][656]SourceControl: Error: hint: "git config advice.addIgnoredFile false"
+[2022.07.25-02.41.48:829][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2022.07.25-02.41.48:838][656]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimitF171ED7E4AF27857E9B910BB9AD30C0E.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap'
+[2022.07.25-02.41.49:050][656]LogFileHelpers: Saving map 'TimeLimit' took 0.280
+[2022.07.25-02.41.49:479][656]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.07.25-02.41.49:497][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.25-02.41.49:521][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.07.25-02.41.49:539][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.07.25-02.41.49:711][656]SourceControl: rm 'SeiSakuKadai/Content/TimeLimit.umap'
+[2022.07.25-02.41.49:768][656]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-02.41.49:768][656]LogContentValidation: Display: World /Game/Level/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.41.49:768][656]LogContentValidation: Display: MapBuildDataRegistry /Game/Level/TimeLimit_BuiltData.TimeLimit_BuiltData を検証しています
+[2022.07.25-02.46.12:200][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2022.07.25-02.46.14:122][352]LogSlate: Window 'コンテンツを保存' being destroyed
+[2022.07.25-02.46.14:244][352]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-02.46.14:248][352]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit426CE6DB46213E42E7AFC2A19E71ADE3.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-02.46.14:275][352]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/TimeLimit.TimeLimit
+[2022.07.25-02.46.14:275][352]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.46.14:275][352]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.46.14:275][352]LoadErrors: New page: マップをロード中: TimeLimit.umap
+[2022.07.25-02.46.14:276][352]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.46.14:276][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.46.14:276][352]MapCheck: New page: マップをチェック
+[2022.07.25-02.46.14:276][352]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.46.14:296][352]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.46.14:299][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.25-02.46.14:305][352]LogAudio: Display: Audio Device (ID: 1) registered with world 'TimeLimit'.
+[2022.07.25-02.46.14:306][352]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.46.14:311][352]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.46.14:335][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.07.25-02.46.14:338][352]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.46.14:338][352]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.121ミリ秒かかりました。
+[2022.07.25-02.46.14:338][352]LogFileHelpers: Loading map 'TimeLimit' took 0.063
+[2022.07.25-02.46.14:352][352]AssetCheck: New page: アセット保存:TimeLimit
+[2022.07.25-02.46.14:352][352]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.46.16:466][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.07.25-02.46.16:491][478]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/TimeLimit.TimeLimit
+[2022.07.25-02.46.16:491][478]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.46.16:491][478]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.46.16:491][478]LoadErrors: New page: マップをロード中: TimeLimit.umap
+[2022.07.25-02.46.16:492][478]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.46.16:492][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.46.16:492][478]MapCheck: New page: マップをチェック
+[2022.07.25-02.46.16:492][478]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.46.16:512][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.46.16:515][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.07.25-02.46.16:520][478]LogAudio: Display: Audio Device (ID: 1) registered with world 'TimeLimit'.
+[2022.07.25-02.46.16:521][478]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.46.16:523][478]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.46.16:547][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.07.25-02.46.16:549][478]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.46.16:549][478]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.099ミリ秒かかりました。
+[2022.07.25-02.46.16:550][478]LogFileHelpers: Loading map 'TimeLimit' took 0.058
+[2022.07.25-02.46.20:369][704]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/TimeLimit.TimeLimit:PersistentLevel.TimeLimit
+[2022.07.25-02.47.31:861][917]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-02.49.47:286][942]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.49.47:316][942]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.07.25-02.52.00:937][922]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.52.00:969][922]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.07.25-02.53.30:029][107]LogSlate: Window '変数の型を変更' being destroyed
+[2022.07.25-02.53.32:694][258]LogSlate: Window 'ブループリントを検索' being destroyed
+[2022.07.25-02.53.32:699][258]LogSlate: Window 'ブループリントを検索' being destroyed
+[2022.07.25-02.56.38:993][329]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2022.07.25-02.56.39:006][329]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto55A8F0B5E4B277878E341A891C94F1DE8.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/Level/TimeLimit_Auto5.umap'
+[2022.07.25-02.56.39:008][329]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level/TimeLimit' took 0.048
+[2022.07.25-02.56.39:008][329]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2022.07.25-02.56.39:008][329]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-02.56.39:008][329]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-02.56.39:016][329]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto592E262084505615223D47DB047A09488.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto5.uasset'
+[2022.07.25-02.56.39:016][329]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.07.25-02.57.08:484][ 77]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.57.08:514][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.25-02.57.08:672][ 86]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.57.08:703][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.07.25-02.57.31:987][473]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.07.25-02.57.32:232][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2022.07.25-02.57.32:243][473]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit0B8D84694FCFDF2DF8C531A301A20BD2.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap'
+[2022.07.25-02.57.32:247][473]LogFileHelpers: Saving map 'TimeLimit' took 0.039
+[2022.07.25-02.57.32:247][473]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-02.57.32:257][473]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit7B28DCFE4F140D815969DE83C2FBA1F6.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-02.57.32:269][473]AssetCheck: New page: アセット保存:複数のアセット
+[2022.07.25-02.57.32:269][473]LogContentValidation: Display: World /Game/Level/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.57.32:269][473]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.57.51:842][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.07.25-02.57.51:898][638]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.25-02.57.51:898][638]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.57.51:898][638]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.57.51:899][638]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2022.07.25-02.57.51:953][638]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.57.51:953][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.57.51:986][638]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.57.51:986][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.57.51:986][638]MapCheck: New page: マップをチェック
+[2022.07.25-02.57.51:986][638]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.57.52:007][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.57.52:013][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.07.25-02.57.52:013][638]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-02.57.52:016][638]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.57.52:016][638]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-02.57.52:041][638]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.25-02.57.52:044][638]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.57.52:045][638]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.11ミリ秒かかりました。
+[2022.07.25-02.57.52:045][638]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.147
+[2022.07.25-02.57.55:485][837]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-02.57.55:490][837]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-02.57.55:490][837]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 20:57:55)
+[2022.07.25-02.57.55:513][837]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-02.57.55:528][837]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015002s)
+[2022.07.25-02.57.55:529][837]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-02.57.55:529][837]LogPlayLevel: PIE: World Init took: (0.000924s)
+[2022.07.25-02.57.55:529][837]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.016082s)
+[2022.07.25-02.57.55:552][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.07.25-02.57.55:554][837]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-02.57.55:554][837]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-02.57.55:554][837]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-02.57.55:554][837]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-02.57.55:559][837]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-02.57.55:559][837]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-02.57.55:595][837]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-02.57.55:595][837]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-02.57.55:595][837]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-02.57.55:595][837]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-02.57.55:596][837]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-02.57.55:596][837]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-02.57.55:596][837]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-02.57.55:596][837]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-02.57.55:596][837]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-02.57.55:596][837]LogInit: FAudioDevice initialized.
+[2022.07.25-02.57.55:596][837]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-02.57.55:620][837]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-02.57.55:622][837]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-11.57.55
+[2022.07.25-02.57.55:622][837]LogWorld: Bringing up level for play took: 0.001327
+[2022.07.25-02.57.55:622][837]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.07.25-02.57.55:624][837]PIE: サーバーにログインしました
+[2022.07.25-02.57.55:625][837]PIE: PIE合計開始時間 0.136 秒。
+[2022.07.25-02.57.58:124][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.57.58:124][983]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-02.57.58:124][983]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.57.58:124][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.57.58:134][983]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-02.57.58:139][983]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.57.58:160][983]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.57.58:160][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.57.58:161][983]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.57.58:202][983]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.57.58:206][983]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.25-02.57.58:221][984]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.07.25-02.58.08:163][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2022.07.25-02.58.08:200][576]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/TimeLimit.TimeLimit
+[2022.07.25-02.58.08:200][576]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-02.58.08:200][576]LightingResults: New page: ライティングのビルド
+[2022.07.25-02.58.08:200][576]LoadErrors: New page: マップをロード中: TimeLimit.umap
+[2022.07.25-02.58.08:201][576]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.58.08:201][576]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.58.08:202][576]MapCheck: New page: マップをチェック
+[2022.07.25-02.58.08:202][576]LightingResults: New page: <何も選択されていません>
+[2022.07.25-02.58.08:223][576]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.58.08:226][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2022.07.25-02.58.08:227][576]LogAudio: Display: Audio Device (ID: 1) registered with world 'TimeLimit'.
+[2022.07.25-02.58.08:229][576]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-02.58.08:229][576]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.58.08:254][576]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.07.25-02.58.08:256][576]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-02.58.08:256][576]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.1ミリ秒かかりました。
+[2022.07.25-02.58.08:256][576]LogFileHelpers: Loading map 'TimeLimit' took 0.056
+[2022.07.25-02.58.10:979][735]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-02.58.10:985][735]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-02.58.10:985][735]PIE: New page: PIEセッション: TimeLimit (2022/07/25 20:58:10)
+[2022.07.25-02.58.10:985][735]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_TimeLimit
+[2022.07.25-02.58.10:987][735]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002192s)
+[2022.07.25-02.58.10:988][735]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.58.10:988][735]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2022.07.25-02.58.10:988][735]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/TimeLimit.TimeLimit to /Game/Level/UEDPIE_0_TimeLimit.TimeLimit (0.003113s)
+[2022.07.25-02.58.11:010][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.07.25-02.58.11:011][735]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-02.58.11:011][735]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-02.58.11:011][735]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-02.58.11:011][735]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-02.58.11:015][735]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-02.58.11:015][735]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-02.58.11:053][735]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-02.58.11:053][735]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-02.58.11:054][735]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-02.58.11:054][735]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-02.58.11:054][735]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-02.58.11:054][735]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-02.58.11:054][735]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-02.58.11:066][735]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-02.58.11:066][735]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-02.58.11:066][735]LogInit: FAudioDevice initialized.
+[2022.07.25-02.58.11:066][735]LogAudio: Display: Audio Device (ID: 12) registered with world 'TimeLimit'.
+[2022.07.25-02.58.11:076][735]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-02.58.11:076][735]LogWorld: Bringing World /Game/Level/UEDPIE_0_TimeLimit.TimeLimit up for play (max tick rate 60) at 2022.07.25-11.58.11
+[2022.07.25-02.58.11:076][735]LogWorld: Bringing up level for play took: 0.000404
+[2022.07.25-02.58.11:077][735]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.07.25-02.58.11:083][735]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.07.25-02.58.11:083][735]PIE: サーバーにログインしました
+[2022.07.25-02.58.11:084][735]PIE: PIE合計開始時間 0.101 秒。
+[2022.07.25-02.58.15:125][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.58.15:125][974]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_TimeLimit
+[2022.07.25-02.58.15:126][974]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.58.15:126][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.58.15:136][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-02.58.15:142][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.58.15:164][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.58.15:165][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.58.15:166][974]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.58.15:202][974]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.07.25-02.58.15:217][975]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.07.25-02.59.07:495][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-02.59.07:505][ 82]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit2C1B2DE14BCDD6597100829B487F56B9.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-02.59.07:517][ 82]AssetCheck: New page: アセット保存:TimeLimit
+[2022.07.25-02.59.07:517][ 82]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-02.59.08:809][158]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-02.59.08:850][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2022.07.25-02.59.12:873][392]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-02.59.12:879][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-02.59.12:879][392]PIE: New page: PIEセッション: TimeLimit (2022/07/25 20:59:12)
+[2022.07.25-02.59.12:879][392]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_TimeLimit
+[2022.07.25-02.59.12:881][392]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001955s)
+[2022.07.25-02.59.12:882][392]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-02.59.12:882][392]LogPlayLevel: PIE: World Init took: (0.000947s)
+[2022.07.25-02.59.12:882][392]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/TimeLimit.TimeLimit to /Game/Level/UEDPIE_0_TimeLimit.TimeLimit (0.002998s)
+[2022.07.25-02.59.12:906][392]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.07.25-02.59.12:907][392]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-02.59.12:907][392]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-02.59.12:907][392]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-02.59.12:907][392]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-02.59.12:911][392]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-02.59.12:911][392]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-02.59.12:955][392]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-02.59.12:955][392]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-02.59.12:955][392]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-02.59.12:955][392]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-02.59.12:955][392]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-02.59.12:955][392]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-02.59.12:956][392]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-02.59.12:969][392]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-02.59.12:969][392]LogInit: FAudioDevice initialized.
+[2022.07.25-02.59.12:969][392]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-02.59.12:969][392]LogAudio: Display: Audio Device (ID: 13) registered with world 'TimeLimit'.
+[2022.07.25-02.59.12:976][392]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-02.59.12:977][392]LogWorld: Bringing World /Game/Level/UEDPIE_0_TimeLimit.TimeLimit up for play (max tick rate 60) at 2022.07.25-11.59.12
+[2022.07.25-02.59.12:977][392]LogWorld: Bringing up level for play took: 0.000484
+[2022.07.25-02.59.12:977][392]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.07.25-02.59.12:980][392]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.07.25-02.59.12:980][392]PIE: サーバーにログインしました
+[2022.07.25-02.59.12:981][392]PIE: PIE合計開始時間 0.103 秒。
+[2022.07.25-02.59.19:625][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.59.19:625][787]LogWorld: BeginTearingDown for /Game/Level/UEDPIE_0_TimeLimit
+[2022.07.25-02.59.19:625][787]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-02.59.19:626][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.59.19:636][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-02.59.19:641][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-02.59.19:662][787]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-02.59.19:663][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.59.19:665][787]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-02.59.19:694][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-02.59.19:697][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.25-02.59.19:711][788]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.07.25-03.03.27:792][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.07.25-03.03.27:817][654]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Level/TimeLimit.TimeLimit
+[2022.07.25-03.03.27:817][654]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/Level/TimeLimit.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-03.03.27:817][654]LightingResults: New page: ライティングのビルド
+[2022.07.25-03.03.27:817][654]LoadErrors: New page: マップをロード中: TimeLimit.umap
+[2022.07.25-03.03.27:844][654]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.03.27:844][654]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.03.27:844][654]MapCheck: New page: マップをチェック
+[2022.07.25-03.03.27:844][654]LightingResults: New page: <何も選択されていません>
+[2022.07.25-03.03.27:865][654]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.03.27:869][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.07.25-03.03.27:876][654]LogAudio: Display: Audio Device (ID: 1) registered with world 'TimeLimit'.
+[2022.07.25-03.03.27:877][654]LogAIModule: Creating AISystem for world TimeLimit
+[2022.07.25-03.03.27:880][654]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-03.03.27:904][654]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2022.07.25-03.03.27:907][654]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-03.03.27:908][654]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.104ミリ秒かかりました。
+[2022.07.25-03.03.27:908][654]LogFileHelpers: Loading map 'TimeLimit' took 0.090
+[2022.07.25-03.03.32:947][952]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Level/TimeLimit.TimeLimit:PersistentLevel.TimeLimit
+[2022.07.25-03.03.44:049][603]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-03.04.00:426][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.07.25-03.04.00:470][578]LogTexture: Display: テクスチャをビルドしています:DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8、128X128)
+[2022.07.25-03.04.00:488][578]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2022.07.25-03.04.00:488][578]Cmd: MAP LOAD FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.25-03.04.00:488][578]LightingResults: New page: ライティングのビルド
+[2022.07.25-03.04.00:488][578]LoadErrors: New page: マップをロード中: ThirdPersonExampleMap.umap
+[2022.07.25-03.04.00:494][578]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.04.00:494][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.04.00:525][578]LogWorld: UWorld::CleanupWorld for TimeLimit, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.04.00:525][578]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.04.00:525][578]MapCheck: New page: マップをチェック
+[2022.07.25-03.04.00:525][578]LightingResults: New page: <何も選択されていません>
+[2022.07.25-03.04.00:546][578]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.04.00:552][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.07.25-03.04.00:552][578]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-03.04.00:556][578]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.25-03.04.00:556][578]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-03.04.00:581][578]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.07.25-03.04.00:584][578]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.25-03.04.00:584][578]MapCheck: マップチェックが完了: 0 エラー、 0 警告、完了に 0.104ミリ秒かかりました。
+[2022.07.25-03.04.00:584][578]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.096
+[2022.07.25-03.04.11:778][239]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2022.07.25-03.04.34:240][540]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-03.05.58:759][576]BlueprintLog: New page: ThirdPersonExampleMap をコンパイル
+[2022.07.25-03.05.58:804][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.07.25-03.05.58:928][583]BlueprintLog: New page: ThirdPersonExampleMap をコンパイル
+[2022.07.25-03.05.58:970][583]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2022.07.25-03.06.03:179][828]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-03.06.03:184][828]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.06.03:184][828]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 21:06:03)
+[2022.07.25-03.06.03:184][828]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-03.06.03:200][828]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015549s)
+[2022.07.25-03.06.03:202][828]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-03.06.03:202][828]LogPlayLevel: PIE: World Init took: (0.002171s)
+[2022.07.25-03.06.03:202][828]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017975s)
+[2022.07.25-03.06.03:230][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2022.07.25-03.06.03:231][828]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-03.06.03:231][828]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.06.03:231][828]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.06.03:232][828]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-03.06.03:232][828]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-03.06.03:236][828]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-03.06.03:236][828]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-03.06.03:273][828]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-03.06.03:273][828]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.06.03:273][828]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.06.03:274][828]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.06.03:274][828]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-03.06.03:274][828]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-03.06.03:274][828]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-03.06.03:289][828]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-03.06.03:289][828]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-03.06.03:289][828]LogInit: FAudioDevice initialized.
+[2022.07.25-03.06.03:289][828]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-03.06.03:298][828]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-03.06.03:300][828]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-12.06.03
+[2022.07.25-03.06.03:300][828]LogWorld: Bringing up level for play took: 0.001322
+[2022.07.25-03.06.03:300][828]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.07.25-03.06.03:303][828]PIE: サーバーにログインしました
+[2022.07.25-03.06.03:304][828]PIE: PIE合計開始時間 0.12 秒。
+[2022.07.25-03.06.10:696][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.06.10:696][267]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-03.06.10:696][267]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.06.10:697][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.06.10:709][267]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.06.10:716][267]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.06.10:755][267]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.06.10:755][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-03.06.10:756][267]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-03.06.10:787][267]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.06.10:790][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2022.07.25-03.06.10:807][268]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.07.25-03.13.10:210][222]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.25-03.13.10:245][222]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-03.13.10:245][222]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-03.35.16:211][223]LogAudioMixer: Resetting audio stream to device id 
+[2022.07.25-03.35.16:298][223]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-03.35.16:299][223]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBBF6C72-43D9-985B-D198-E2A9096D4104%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=f2e5b60142ce5fdf8ccf0db860b07970%7C498f2f364bb44139a05be50abcfbd6a5%7C7310ebf9-04ff-4b75-9e4c-8762b3fb6c0e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x1a73b88beb0 [can pipeline])
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.2.42.254) port 443 (#0))
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: 000001A80A6A9600: libcurl info message cache 7 (Closing connection 0)
+[2022.07.25-03.35.16:605][224]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBBF6C72-43D9-985B-D198-E2A9096D4104%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=f2e5b60142ce5fdf8ccf0db860b07970%7C498f2f364bb44139a05be50abcfbd6a5%7C7310ebf9-04ff-4b75-9e4c-8762b3fb6c0e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.07.25-03.35.26:259][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.07.25-03.35.26:296][385]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto64562FFB0413AFFD59A1D8B8678452676.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto6.umap'
+[2022.07.25-03.35.26:298][385]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.070
+[2022.07.25-03.35.26:298][385]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.070
+[2022.07.25-03.35.26:298][385]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-03.35.26:298][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-03.35.26:308][385]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto6E6E180974FF33C12702AA18D2F1423D6.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto6.uasset'
+[2022.07.25-03.35.26:308][385]LogFileHelpers: Auto-saving content packages took 0.010
+[2022.07.25-03.36.58:127][826]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-03.36.58:162][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.07.25-03.36.58:363][837]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-03.36.58:394][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.07.25-03.37.10:685][555]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-03.37.10:691][555]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-03.37.10:691][555]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 21:37:10)
+[2022.07.25-03.37.10:711][555]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-03.37.10:725][555]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013704s)
+[2022.07.25-03.37.10:727][555]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-03.37.10:727][555]LogPlayLevel: PIE: World Init took: (0.001732s)
+[2022.07.25-03.37.10:727][555]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015695s)
+[2022.07.25-03.37.10:758][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.07.25-03.37.10:761][555]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-03.37.10:761][555]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-03.37.10:761][555]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-03.37.10:761][555]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-03.37.10:766][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-03.37.10:766][555]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-03.37.10:817][555]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-03.37.10:817][555]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-03.37.10:833][555]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-03.37.10:833][555]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-03.37.10:833][555]LogInit: FAudioDevice initialized.
+[2022.07.25-03.37.10:833][555]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-03.37.10:837][555]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-03.37.10:839][555]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-12.37.10
+[2022.07.25-03.37.10:839][555]LogWorld: Bringing up level for play took: 0.001375
+[2022.07.25-03.37.10:840][555]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2022.07.25-03.37.10:842][555]PIE: サーバーにログインしました
+[2022.07.25-03.37.10:842][555]PIE: PIE合計開始時間 0.152 秒。
+[2022.07.25-03.37.22:312][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.37.22:312][239]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-03.37.22:313][239]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-03.37.22:313][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.37.22:318][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-03.37.22:323][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-03.37.22:347][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-03.37.22:347][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-03.37.22:348][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-03.37.22:385][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-03.37.22:388][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.07.25-03.37.22:405][240]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2022.07.25-03.45.38:311][766]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2022.07.25-03.45.38:359][766]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto72330BE4B47A013AAD2B58BA8A60A50B7.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto7.umap'
+[2022.07.25-03.45.38:363][766]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.085
+[2022.07.25-03.45.38:363][766]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.085
+[2022.07.25-03.45.38:363][766]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-03.45.38:363][766]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-03.45.38:377][766]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto712AF43BD4E06DDFBC7FF40A6C3339C62.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto7.uasset'
+[2022.07.25-03.45.38:378][766]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.07.25-04.01.30:418][398]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.01.30:453][398]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2022.07.25-04.01.30:588][405]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.01.30:619][405]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.07.25-04.01.30:753][413]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.01.30:784][413]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.07.25-04.01.33:287][560]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.01.33:292][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.01.33:292][560]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:01:33)
+[2022.07.25-04.01.33:332][560]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.01.33:342][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009707s)
+[2022.07.25-04.01.33:344][560]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.01.33:344][560]LogPlayLevel: PIE: World Init took: (0.002058s)
+[2022.07.25-04.01.33:344][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011908s)
+[2022.07.25-04.01.33:373][560]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.07.25-04.01.33:373][560]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.07.25-04.01.33:373][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.01.33:373][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.01.33:373][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.01.33:374][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.01.33:374][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.01.33:374][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.01.33:374][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.01.33:374][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.01.33:374][560]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.01.33:374][560]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.01.33:380][560]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.01.33:380][560]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.01.33:417][560]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.01.33:417][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.01.33:418][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.01.33:418][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.01.33:419][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.01.33:419][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.01.33:419][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.01.33:432][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.01.33:432][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.01.33:432][560]LogInit: FAudioDevice initialized.
+[2022.07.25-04.01.33:432][560]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.01.33:441][560]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.01.33:443][560]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.01.33
+[2022.07.25-04.01.33:444][560]LogWorld: Bringing up level for play took: 0.001699
+[2022.07.25-04.01.33:444][560]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2022.07.25-04.01.33:447][560]PIE: サーバーにログインしました
+[2022.07.25-04.01.33:448][560]PIE: PIE合計開始時間 0.156 秒。
+[2022.07.25-04.01.39:744][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.01.39:744][930]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.01.39:744][930]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.01.39:744][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.01.39:749][930]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.01.39:753][930]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.01.39:777][930]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.01.39:777][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.01.39:778][930]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.01.39:833][930]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2022.07.25-04.01.39:846][931]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2022.07.25-04.02.00:389][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/TimeLimit" FILE="../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset" SILENT=true
+[2022.07.25-04.02.00:400][143]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit76F4B0A24C459E57A5A99BAB2D0F70AF.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Content/UI/TimeLimit.uasset'
+[2022.07.25-04.02.00:411][143]AssetCheck: New page: アセット保存:TimeLimit
+[2022.07.25-04.02.00:411][143]LogContentValidation: Display: WidgetBlueprint /Game/UI/TimeLimit.TimeLimit を検証しています
+[2022.07.25-04.02.02:102][241]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.02.02:147][241]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.07.25-04.02.04:867][398]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.02.04:872][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.02.04:872][398]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:02:04)
+[2022.07.25-04.02.04:872][398]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.02.04:881][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008850s)
+[2022.07.25-04.02.04:882][398]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.02.04:882][398]LogPlayLevel: PIE: World Init took: (0.001235s)
+[2022.07.25-04.02.04:882][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010215s)
+[2022.07.25-04.02.04:912][398]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.07.25-04.02.04:913][398]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.02.04:913][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.02.04:913][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.02.04:914][398]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.02.04:914][398]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.02.04:918][398]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.02.04:918][398]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.02.04:951][398]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.02.04:952][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.02.04:952][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.02.04:952][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.02.04:952][398]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.02.04:952][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.02.04:952][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.02.04:966][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.02.04:966][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.02.04:966][398]LogInit: FAudioDevice initialized.
+[2022.07.25-04.02.04:966][398]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.02.04:975][398]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.02.04:977][398]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.02.04
+[2022.07.25-04.02.04:977][398]LogWorld: Bringing up level for play took: 0.001172
+[2022.07.25-04.02.04:978][398]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2022.07.25-04.02.04:979][398]PIE: サーバーにログインしました
+[2022.07.25-04.02.04:980][398]PIE: PIE合計開始時間 0.11 秒。
+[2022.07.25-04.02.09:983][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.09:983][694]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.02.09:983][694]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.02.09:984][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.02.09:991][694]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.02.09:995][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.02.10:020][694]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.02.10:020][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.02.10:021][694]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.02.10:070][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.02.10:073][694]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.07.25-04.02.10:089][695]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.07.25-04.02.38:283][366]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.25-04.02.38:319][366]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto86FBCCDBF469A63478872E19BCA30CB99.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto8.umap'
+[2022.07.25-04.02.38:322][366]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.065
+[2022.07.25-04.02.38:322][366]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.065
+[2022.07.25-04.04.22:032][584]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.04.22:036][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.04.22:037][584]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:04:22)
+[2022.07.25-04.04.22:037][584]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.04.22:046][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009570s)
+[2022.07.25-04.04.22:048][584]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.04.22:048][584]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2022.07.25-04.04.22:048][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011549s)
+[2022.07.25-04.04.22:080][584]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.07.25-04.04.22:082][584]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.04.22:083][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.04.22:083][584]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.04.22:083][584]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.04.22:087][584]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.04.22:087][584]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.04.22:121][584]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.04.22:122][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.04.22:122][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.04.22:122][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.04.22:122][584]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.04.22:122][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.04.22:122][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.04.22:136][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.04.22:136][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.04.22:136][584]LogInit: FAudioDevice initialized.
+[2022.07.25-04.04.22:136][584]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.04.22:189][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.04.22:190][584]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.04.22:192][584]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.04.22
+[2022.07.25-04.04.22:192][584]LogWorld: Bringing up level for play took: 0.001296
+[2022.07.25-04.04.22:192][584]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2022.07.25-04.04.22:197][584]PIE: サーバーにログインしました
+[2022.07.25-04.04.22:197][584]PIE: PIE合計開始時間 0.162 秒。
+[2022.07.25-04.04.22:244][585]LogRenderer: Reallocating scene render targets to support 1028x592 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.04.26:613][845]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.04.26:621][845]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.04.26:621][845]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.04.26:621][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.04.26:626][845]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.04.26:631][845]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.04.26:656][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.04.26:657][845]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.04.26:698][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.07.25-04.04.26:725][847]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.07.25-04.05.01:449][923]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.05.01:483][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2022.07.25-04.05.01:723][936]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.05.01:755][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.07.25-04.05.01:877][943]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.05.01:908][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2022.07.25-04.05.32:315][767]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.05.32:319][767]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.05.32:319][767]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:05:32)
+[2022.07.25-04.05.32:319][767]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.05.32:330][767]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010741s)
+[2022.07.25-04.05.32:332][767]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.05.32:332][767]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2022.07.25-04.05.32:332][767]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012756s)
+[2022.07.25-04.05.32:365][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2022.07.25-04.05.32:366][767]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.05.32:367][767]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.05.32:367][767]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.05.32:367][767]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.05.32:371][767]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.05.32:371][767]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.05.32:405][767]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.05.32:405][767]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.05.32:406][767]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.05.32:406][767]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.05.32:406][767]LogInit: FAudioDevice initialized.
+[2022.07.25-04.05.32:406][767]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.05.32:452][767]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.05.32:453][767]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.05.32:455][767]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.05.32
+[2022.07.25-04.05.32:455][767]LogWorld: Bringing up level for play took: 0.001599
+[2022.07.25-04.05.32:456][767]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2022.07.25-04.05.32:458][767]PIE: サーバーにログインしました
+[2022.07.25-04.05.32:459][767]PIE: PIE合計開始時間 0.14 秒。
+[2022.07.25-04.05.32:508][768]LogRenderer: Reallocating scene render targets to support 1032x596 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.05.35:574][949]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.05.35:574][949]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.05.35:575][949]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.05.35:580][949]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.05.35:580][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.05.35:587][949]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.05.35:593][949]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.05.35:642][949]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.05.35:643][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.05.35:644][949]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.05.35:686][949]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.07.25-04.05.35:699][950]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2022.07.25-04.06.11:313][ 56]BlueprintLog: New page: TimeLimit をコンパイル
+[2022.07.25-04.06.11:346][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.07.25-04.06.14:878][263]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.06.14:883][263]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.06.14:883][263]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:06:14)
+[2022.07.25-04.06.14:883][263]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.06.14:893][263]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009625s)
+[2022.07.25-04.06.14:894][263]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.06.14:894][263]LogPlayLevel: PIE: World Init took: (0.001569s)
+[2022.07.25-04.06.14:894][263]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011332s)
+[2022.07.25-04.06.14:924][263]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.07.25-04.06.14:925][263]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.06.14:925][263]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.06.14:925][263]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.06.14:926][263]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.06.14:926][263]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.06.14:930][263]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.06.14:930][263]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.06.14:964][263]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.06.14:964][263]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.06.14:964][263]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.06.14:964][263]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.06.14:965][263]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.06.14:965][263]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.06.14:965][263]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.06.14:965][263]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.06.14:965][263]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.06.14:965][263]LogInit: FAudioDevice initialized.
+[2022.07.25-04.06.14:965][263]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.06.15:013][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.06.15:014][263]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.06.15:016][263]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.06.15
+[2022.07.25-04.06.15:016][263]LogWorld: Bringing up level for play took: 0.001449
+[2022.07.25-04.06.15:016][263]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2022.07.25-04.06.15:019][263]PIE: サーバーにログインしました
+[2022.07.25-04.06.15:020][263]PIE: PIE合計開始時間 0.137 秒。
+[2022.07.25-04.06.15:068][264]LogRenderer: Reallocating scene render targets to support 1032x604 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.06.18:095][443]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.06.18:095][443]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.06.18:095][443]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.06.18:098][443]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.06.18:098][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.18:102][443]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.06.18:106][443]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.18:130][443]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.06.18:130][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.06.18:131][443]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.06.18:163][443]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.07.25-04.06.18:178][444]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2022.07.25-04.06.19:558][525]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.06.19:562][525]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.06.19:562][525]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:06:19)
+[2022.07.25-04.06.19:562][525]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.06.19:571][525]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008783s)
+[2022.07.25-04.06.19:572][525]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.06.19:572][525]LogPlayLevel: PIE: World Init took: (0.001051s)
+[2022.07.25-04.06.19:572][525]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009953s)
+[2022.07.25-04.06.19:598][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.07.25-04.06.19:600][525]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.06.19:600][525]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.06.19:600][525]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.06.19:600][525]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.06.19:604][525]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.06.19:604][525]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.06.19:638][525]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.06.19:638][525]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.06.19:652][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.06.19:652][525]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.06.19:652][525]LogInit: FAudioDevice initialized.
+[2022.07.25-04.06.19:652][525]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.06.19:710][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.06.19:711][525]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.06.19:713][525]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.06.19
+[2022.07.25-04.06.19:713][525]LogWorld: Bringing up level for play took: 0.001899
+[2022.07.25-04.06.19:713][525]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2022.07.25-04.06.19:716][525]PIE: サーバーにログインしました
+[2022.07.25-04.06.19:717][525]PIE: PIE合計開始時間 0.155 秒。
+[2022.07.25-04.06.19:768][526]LogRenderer: Reallocating scene render targets to support 1032x608 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.06.47:484][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.06.47:484][160]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.06.47:484][160]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.06.47:487][160]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.06.47:487][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.47:495][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.06.47:500][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.06.47:525][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.06.47:526][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.06.47:557][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.07.25-04.06.47:569][161]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2022.07.25-04.07.09:949][503]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.07.09:954][503]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.07.09:954][503]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:07:09)
+[2022.07.25-04.07.09:955][503]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.07.09:964][503]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008301s)
+[2022.07.25-04.07.09:965][503]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.07.09:965][503]LogPlayLevel: PIE: World Init took: (0.001500s)
+[2022.07.25-04.07.09:965][503]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009937s)
+[2022.07.25-04.07.09:997][503]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.07.25-04.07.09:998][503]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.07.09:998][503]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.07.09:998][503]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.07.09:998][503]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.07.10:002][503]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.07.10:002][503]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.07.10:036][503]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.07.10:036][503]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.07.10:050][503]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.07.10:050][503]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.07.10:050][503]LogInit: FAudioDevice initialized.
+[2022.07.25-04.07.10:050][503]LogAudio: Display: Audio Device (ID: 22) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.07.10:103][503]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.07.10:103][503]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.07.10:105][503]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.07.10
+[2022.07.25-04.07.10:105][503]LogWorld: Bringing up level for play took: 0.001420
+[2022.07.25-04.07.10:105][503]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2022.07.25-04.07.10:108][503]PIE: サーバーにログインしました
+[2022.07.25-04.07.10:109][503]PIE: PIE合計開始時間 0.156 秒。
+[2022.07.25-04.07.10:156][504]LogRenderer: Reallocating scene render targets to support 1036x616 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.07.27:134][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.07.27:134][354]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.07.27:135][354]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.07.27:138][354]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.07.27:138][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.07.27:145][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.07.27:149][354]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.07.27:175][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.07.27:176][354]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.07.27:211][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2022.07.25-04.07.27:225][355]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2022.07.25-04.11.02:586][975]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.11.02:592][975]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.11.02:592][975]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:11:02)
+[2022.07.25-04.11.02:592][975]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.11.02:602][975]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009556s)
+[2022.07.25-04.11.02:603][975]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.11.02:604][975]LogPlayLevel: PIE: World Init took: (0.001755s)
+[2022.07.25-04.11.02:604][975]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011545s)
+[2022.07.25-04.11.02:632][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.07.25-04.11.02:633][975]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.11.02:633][975]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.11.02:633][975]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.11.02:634][975]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.11.02:634][975]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.11.02:638][975]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.11.02:638][975]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.11.02:672][975]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.11.02:672][975]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.11.02:672][975]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.11.02:672][975]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.11.02:673][975]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.11.02:673][975]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.11.02:673][975]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.11.02:687][975]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.11.02:687][975]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.11.02:687][975]LogInit: FAudioDevice initialized.
+[2022.07.25-04.11.02:687][975]LogAudio: Display: Audio Device (ID: 23) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.11.02:694][975]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.11.02:696][975]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.11.02
+[2022.07.25-04.11.02:696][975]LogWorld: Bringing up level for play took: 0.001284
+[2022.07.25-04.11.02:697][975]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2022.07.25-04.11.02:699][975]PIE: サーバーにログインしました
+[2022.07.25-04.11.02:699][975]PIE: PIE合計開始時間 0.108 秒。
+[2022.07.25-04.11.08:895][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.11.08:895][343]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.11.08:896][343]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.11.08:896][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.11.08:906][343]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.11.08:914][343]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.11.08:957][343]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.11.08:957][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.11.08:958][343]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.11.08:995][343]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.11.08:998][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.07.25-04.11.09:017][344]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2022.07.25-04.12.34:692][721]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.12.34:698][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.12.34:698][721]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:12:34)
+[2022.07.25-04.12.34:698][721]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.12.34:707][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008824s)
+[2022.07.25-04.12.34:708][721]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.12.34:708][721]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2022.07.25-04.12.34:708][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010043s)
+[2022.07.25-04.12.34:737][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2022.07.25-04.12.34:738][721]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.07.25-04.12.34:738][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.12.34:738][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.12.34:738][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.12.34:738][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.12.34:739][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.12.34:739][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.12.34:739][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.12.34:739][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.12.34:739][721]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.12.34:739][721]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.12.34:744][721]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.12.34:744][721]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.12.34:778][721]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.12.34:778][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.12.34:778][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.12.34:778][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.12.34:778][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.12.34:779][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.12.34:779][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.12.34:792][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.12.34:792][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.12.34:792][721]LogInit: FAudioDevice initialized.
+[2022.07.25-04.12.34:792][721]LogAudio: Display: Audio Device (ID: 24) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.12.34:805][721]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.12.34:806][721]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.12.34
+[2022.07.25-04.12.34:807][721]LogWorld: Bringing up level for play took: 0.001291
+[2022.07.25-04.12.34:807][721]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2022.07.25-04.12.34:809][721]PIE: サーバーにログインしました
+[2022.07.25-04.12.34:809][721]PIE: PIE合計開始時間 0.113 秒。
+[2022.07.25-04.12.38:414][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.12.38:414][933]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.12.38:414][933]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.12.38:414][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.12.38:425][933]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.12.38:429][933]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.12.38:455][933]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.12.38:455][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.12.38:456][933]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.12.38:503][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.12.38:506][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.07.25-04.12.38:522][934]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2022.07.25-04.13.27:766][885]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.13.27:771][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.13.27:771][885]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:13:27)
+[2022.07.25-04.13.27:771][885]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.13.27:782][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010442s)
+[2022.07.25-04.13.27:783][885]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.13.27:783][885]LogPlayLevel: PIE: World Init took: (0.001309s)
+[2022.07.25-04.13.27:783][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011923s)
+[2022.07.25-04.13.27:814][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.07.25-04.13.27:815][885]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.13.27:815][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.13.27:815][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.13.27:816][885]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.13.27:816][885]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.13.27:820][885]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.13.27:820][885]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.13.27:853][885]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.13.27:854][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.13.27:854][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.13.27:854][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.13.27:854][885]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.13.27:854][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.13.27:854][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.13.27:868][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.13.27:868][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.13.27:868][885]LogInit: FAudioDevice initialized.
+[2022.07.25-04.13.27:868][885]LogAudio: Display: Audio Device (ID: 25) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.13.27:917][885]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.13.27:918][885]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.13.27:920][885]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.13.27
+[2022.07.25-04.13.27:920][885]LogWorld: Bringing up level for play took: 0.001477
+[2022.07.25-04.13.27:920][885]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2022.07.25-04.13.27:923][885]PIE: サーバーにログインしました
+[2022.07.25-04.13.27:924][885]PIE: PIE合計開始時間 0.153 秒。
+[2022.07.25-04.13.27:963][886]LogRenderer: Reallocating scene render targets to support 1036x624 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.13.30:135][ 13]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.13.30:135][ 13]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.13.30:135][ 13]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.13.30:146][ 13]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.13.30:147][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.13.30:156][ 13]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.13.30:164][ 13]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.13.30:203][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.13.30:204][ 13]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.13.30:256][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2022.07.25-04.13.30:268][ 14]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2022.07.25-04.13.33:544][210]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.07.25-04.14.12:193][491]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.07.25-04.14.12:227][491]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/ThirdPersonExampleMap_Auto9DF13988A4D115EFE91D941A611EB609E.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto9.umap'
+[2022.07.25-04.14.12:229][491]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.064
+[2022.07.25-04.14.12:229][491]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2022.07.25-04.14.12:229][491]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/TimeLimit] ([1] browsable assets)...
+[2022.07.25-04.14.12:229][491]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/TimeLimit]
+[2022.07.25-04.14.12:239][491]LogSavePackage: Moving '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/TimeLimit_Auto95630FCA04ED44A6BB74A168A8710E23C.tmp' to '../../../../../../Users/12105001/Desktop/ゲームジャム制作課題/-TeamProduction/SeiSakuKadai/Saved/Autosaves/Game/UI/TimeLimit_Auto9.uasset'
+[2022.07.25-04.14.12:240][491]LogFileHelpers: Auto-saving content packages took 0.011
+[2022.07.25-04.14.15:740][693]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.14.15:744][693]BlueprintLog: New page: プレイ前に自動再コンパイル
+[2022.07.25-04.14.15:748][693]LogPlayLevel: [PlayLevel] Compiling TimeLimit before play...
+[2022.07.25-04.14.15:796][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2022.07.25-04.14.15:798][693]LogPlayLevel: PlayLevel: Blueprint regeneration took 53 ms (1 blueprints)
+[2022.07.25-04.14.15:798][693]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:14:15)
+[2022.07.25-04.14.15:798][693]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.14.15:808][693]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009617s)
+[2022.07.25-04.14.15:809][693]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.14.15:809][693]LogPlayLevel: PIE: World Init took: (0.001168s)
+[2022.07.25-04.14.15:809][693]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010929s)
+[2022.07.25-04.14.15:837][693]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2022.07.25-04.14.15:838][693]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.14.15:838][693]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.14.15:838][693]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.14.15:839][693]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.14.15:839][693]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.14.15:842][693]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.14.15:842][693]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.14.15:876][693]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.14.15:877][693]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.14.15:877][693]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.14.15:877][693]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.14.15:877][693]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.14.15:877][693]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.14.15:877][693]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.14.15:891][693]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.14.15:891][693]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.14.15:891][693]LogInit: FAudioDevice initialized.
+[2022.07.25-04.14.15:891][693]LogAudio: Display: Audio Device (ID: 26) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.14.15:944][693]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.14.15:945][693]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.14.15:947][693]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.14.15
+[2022.07.25-04.14.15:947][693]LogWorld: Bringing up level for play took: 0.001725
+[2022.07.25-04.14.15:948][693]LogOnline: OSS: Creating online subsystem instance for: :Context_42
+[2022.07.25-04.14.15:950][693]PIE: サーバーにログインしました
+[2022.07.25-04.14.15:951][693]PIE: PIE合計開始時間 0.208 秒。
+[2022.07.25-04.14.15:996][694]LogRenderer: Reallocating scene render targets to support 1040x628 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.14.18:242][825]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.14.18:250][825]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.14.18:250][825]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.14.18:250][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.14.18:256][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.14.18:262][825]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.14.18:286][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.14.18:287][825]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.14.18:338][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.07.25-04.14.18:352][826]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2022.07.25-04.14.26:123][287]LogTemp: Repeating last play command: 選択ビューポート
+[2022.07.25-04.14.26:127][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.25-04.14.26:127][287]PIE: New page: PIEセッション: ThirdPersonExampleMap (2022/07/25 22:14:26)
+[2022.07.25-04.14.26:128][287]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.14.26:139][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010020s)
+[2022.07.25-04.14.26:140][287]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.07.25-04.14.26:140][287]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2022.07.25-04.14.26:140][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011985s)
+[2022.07.25-04.14.26:168][287]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.07.25-04.14.26:168][287]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.25-04.14.26:169][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.25-04.14.26:169][287]LogAudio: Display: Using built-in audio occlusion.
+[2022.07.25-04.14.26:169][287]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.25-04.14.26:173][287]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.25-04.14.26:173][287]LogAudioMixer: Display: 1: FrontRight
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Using Audio Device スピーカー (Realtek(R) Audio)
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.25-04.14.26:207][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.25-04.14.26:207][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.25-04.14.26:221][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.25-04.14.26:221][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.25-04.14.26:221][287]LogInit: FAudioDevice initialized.
+[2022.07.25-04.14.26:221][287]LogAudio: Display: Audio Device (ID: 27) registered with world 'ThirdPersonExampleMap'.
+[2022.07.25-04.14.26:271][287]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.14.26:271][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.07.25-04.14.26:273][287]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.07.25-13.14.26
+[2022.07.25-04.14.26:274][287]LogWorld: Bringing up level for play took: 0.002027
+[2022.07.25-04.14.26:274][287]LogOnline: OSS: Creating online subsystem instance for: :Context_43
+[2022.07.25-04.14.26:276][287]PIE: サーバーにログインしました
+[2022.07.25-04.14.26:277][287]PIE: PIE合計開始時間 0.15 秒。
+[2022.07.25-04.14.26:340][288]LogRenderer: Reallocating scene render targets to support 1040x636 Format 10 NumSamples 1 (Frame:1).
+[2022.07.25-04.14.38:635][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.25-04.14.38:635][ 21]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.07.25-04.14.38:635][ 21]LogSlate: Window 'SeiSakuKadai プレビュー [NetMode:Standalone]  (64-ビット/Windows) ' being destroyed
+[2022.07.25-04.14.38:638][ 21]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.07.25-04.14.38:639][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.14.38:649][ 21]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.25-04.14.38:653][ 21]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.25-04.14.38:678][ 21]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.25-04.14.38:679][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.14.38:680][ 21]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.07.25-04.14.38:714][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2022.07.25-04.14.38:729][ 22]LogPlayLevel: Display: Destroying online subsystem :Context_43
