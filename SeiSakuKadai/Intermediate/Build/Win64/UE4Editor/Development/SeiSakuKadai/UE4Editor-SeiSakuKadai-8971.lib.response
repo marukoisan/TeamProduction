@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SeiSakuKadai-8971.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\SeiSakuKadaiEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Player_Staminagauge.cpp.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\SeiSakuKadai.cpp.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Player_Staminagauge.gen.cpp.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\SeiSakuKadai.init.gen.cpp.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Default.rc2.res"
+/OUT:"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\UE4Editor-SeiSakuKadai-8971.lib"
+/INCLUDE:IMPLEMENT_MODULE_SeiSakuKadai

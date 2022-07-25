@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SeiSakuKadai",
+			"Path": "C:\\PG\\TeamProduction\\SeiSakuKadai\\Source\\SeiSakuKadai.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SeiSakuKadaiEditor",
+			"Path": "C:\\PG\\TeamProduction\\SeiSakuKadai\\Source\\SeiSakuKadaiEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

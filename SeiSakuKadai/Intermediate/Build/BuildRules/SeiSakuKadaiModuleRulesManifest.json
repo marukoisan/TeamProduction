@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\PG\\TeamProduction\\SeiSakuKadai\\Source\\SeiSakuKadai\\SeiSakuKadai.Build.cs",
+		"C:\\PG\\TeamProduction\\SeiSakuKadai\\Plugins\\KM_GAHelperForBP\\Source\\KM_GAHelperForBP\\KM_GAHelperForBP.Build.cs",
+		"C:\\PG\\TeamProduction\\SeiSakuKadai\\Source\\SeiSakuKadai.Target.cs",
+		"C:\\PG\\TeamProduction\\SeiSakuKadai\\Source\\SeiSakuKadaiEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

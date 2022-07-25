@@ -2,5 +2,21 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.26",
 	"Category": "",
-	"Description": ""
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "SeiSakuKadai",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "KM_GAHelperForBP",
+			"Enabled": true
+		}
+	]
 }
