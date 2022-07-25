@@ -34,11 +34,13 @@
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\SeiSakuKadaiEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\PlayerAttribute.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\KM_GameplayAbilitySet.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Player_Staminagauge.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\SeiSakuKadai.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\EKM_GameplayAbilityInputBinds.gen.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\KM_GameplayAbilitySet.gen.cpp.obj"
+"C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\PlayerAttribute.gen.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Player_Staminagauge.gen.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\SeiSakuKadai.init.gen.cpp.obj"
 "C:\PG\TeamProduction\SeiSakuKadai\Intermediate\Build\Win64\UE4Editor\Development\SeiSakuKadai\Default.rc2.res"

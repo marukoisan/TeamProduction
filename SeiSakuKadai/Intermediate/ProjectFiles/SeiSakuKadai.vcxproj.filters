@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SeiSakuKadai.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{614DEF5E-7FF6-4747-B810-7C5CCF46C9A1}</UniqueIdentifier>
+      <UniqueIdentifier>{51D634E2-F42A-4AD3-8BAD-B2D93BB40B7F}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SeiSakuKadai.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{5EFB54C2-81FD-4524-A95F-8D6699CC2404}</UniqueIdentifier>
+      <UniqueIdentifier>{08071535-A971-4B2A-9220-36FE8651A6E8}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,22 +30,22 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Plugins">
-      <UniqueIdentifier>{0E552AD7-7C08-4398-A7C6-B9C68ECFF38C}</UniqueIdentifier>
+      <UniqueIdentifier>{DDEC88CC-65BA-4DF2-9C11-26D3D5C84975}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\KM_GAHelperForBP">
-      <UniqueIdentifier>{E4E3F36F-AF40-4DD9-A132-FE9318DBAC41}</UniqueIdentifier>
+      <UniqueIdentifier>{EFA80C13-8DAF-4D8E-AAEF-610F5DD580E0}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\KM_GAHelperForBP\Source">
-      <UniqueIdentifier>{0BDFD7ED-F122-41B3-B84E-C19401C1848D}</UniqueIdentifier>
+      <UniqueIdentifier>{AF9D0670-F1DB-4B63-82B9-54888FD68F80}</UniqueIdentifier>
     </Filter>
     <Filter Include="Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP">
-      <UniqueIdentifier>{33CFA6CD-BE2B-4208-A23A-DA696F28D805}</UniqueIdentifier>
+      <UniqueIdentifier>{F8EB5498-ED8F-4A7D-9E7C-FC1B6DAEFF3A}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\KM_GAHelperForBP.Build.cs">
       <Filter>Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP</Filter>
     </None>
     <Filter Include="Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private">
-      <UniqueIdentifier>{D4A2F219-0E4C-4AD7-8FEA-75D4803E86E2}</UniqueIdentifier>
+      <UniqueIdentifier>{3CA00F5D-3A2E-4B6A-8D3A-CA9738015736}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private\KM_GAActor.cpp">
       <Filter>Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private</Filter>
@@ -63,7 +63,7 @@
       <Filter>Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Private</Filter>
     </ClCompile>
     <Filter Include="Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public">
-      <UniqueIdentifier>{F18AF0F3-9CBB-4EEB-865A-A4418EB27187}</UniqueIdentifier>
+      <UniqueIdentifier>{6B39428E-F41E-4874-8DBF-08073D5031C7}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public\KM_GAActor.h">
       <Filter>Plugins\KM_GAHelperForBP\Source\KM_GAHelperForBP\Public</Filter>
@@ -84,13 +84,13 @@
       <Filter>Plugins\KM_GAHelperForBP</Filter>
     </None>
     <Filter Include="Plugins\KM_GAHelperForBP\Resources">
-      <UniqueIdentifier>{EACDC213-FBD3-4270-8B94-6AD8B5EDB209}</UniqueIdentifier>
+      <UniqueIdentifier>{A5D8C738-74B8-4F56-BF18-81A2C32C7CD6}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Plugins\KM_GAHelperForBP\Resources\Icon128.png">
       <Filter>Plugins\KM_GAHelperForBP\Resources</Filter>
     </None>
     <Filter Include="Source\SeiSakuKadai">
-      <UniqueIdentifier>{BC044D19-119B-48BE-828D-F00475BBA377}</UniqueIdentifier>
+      <UniqueIdentifier>{0AD886D8-513E-43B9-A4EA-631D8F94E400}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SeiSakuKadai\SeiSakuKadai.Build.cs">
       <Filter>Source\SeiSakuKadai</Filter>
@@ -102,25 +102,40 @@
       <Filter>Source\SeiSakuKadai</Filter>
     </ClInclude>
     <Filter Include="Source\SeiSakuKadai\Private">
-      <UniqueIdentifier>{7B1FE43B-7A62-49AD-ADEA-0576E118064B}</UniqueIdentifier>
+      <UniqueIdentifier>{8F28B3FA-614F-4A5A-AED8-3DF0F8489A13}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SeiSakuKadai\Private\Player_Staminagauge.cpp">
       <Filter>Source\SeiSakuKadai\Private</Filter>
     </ClCompile>
+    <Filter Include="Source\SeiSakuKadai\Private\KM_GAAttributes">
+      <UniqueIdentifier>{315C9F84-3D01-470C-AD51-BE8E47579880}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SeiSakuKadai\Private\KM_GAAttributes\PlayerAttribute.cpp">
+      <Filter>Source\SeiSakuKadai\Private\KM_GAAttributes</Filter>
+    </ClCompile>
     <Filter Include="Source\SeiSakuKadai\Private\KM_Generated">
-      <UniqueIdentifier>{98C0893C-31FD-46E5-884A-3B158637FFDB}</UniqueIdentifier>
+      <UniqueIdentifier>{DB452D2E-D47C-4AFD-8D26-7316A2D5FEC4}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SeiSakuKadai\Private\KM_Generated\KM_GameplayAbilitySet.cpp">
       <Filter>Source\SeiSakuKadai\Private\KM_Generated</Filter>
     </ClCompile>
     <Filter Include="Source\SeiSakuKadai\Public">
-      <UniqueIdentifier>{8BBCF099-70B4-4E16-B5C1-86934788A327}</UniqueIdentifier>
+      <UniqueIdentifier>{1ED618DF-CA54-43E2-A5D5-765C997C2ACB}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\SeiSakuKadai\Public\KM_AttributeSetMacros.h">
+      <Filter>Source\SeiSakuKadai\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\SeiSakuKadai\Public\Player_Staminagauge.h">
       <Filter>Source\SeiSakuKadai\Public</Filter>
     </ClInclude>
+    <Filter Include="Source\SeiSakuKadai\Public\KM_GAAttributes">
+      <UniqueIdentifier>{07776373-CA8C-4BA6-80C6-519D9361DDDF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\SeiSakuKadai\Public\KM_GAAttributes\PlayerAttribute.h">
+      <Filter>Source\SeiSakuKadai\Public\KM_GAAttributes</Filter>
+    </ClInclude>
     <Filter Include="Source\SeiSakuKadai\Public\KM_Generated">
-      <UniqueIdentifier>{ADF059A7-68E1-463D-A28C-1C70B1D0FA4C}</UniqueIdentifier>
+      <UniqueIdentifier>{5622078A-66E2-4312-859A-7F36221B0A7C}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\SeiSakuKadai\Public\KM_Generated\EKM_GameplayAbilityInputBinds.h">
       <Filter>Source\SeiSakuKadai\Public\KM_Generated</Filter>
